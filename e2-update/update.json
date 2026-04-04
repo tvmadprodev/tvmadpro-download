@@ -1,8 +1,8 @@
 {
   "product": "TvMad Pro E2",
-  "version": "0.3.40",
+  "version": "0.3.41",
   "release_date": "2026-04-04",
-  "download_url": "https://github.com/tvmadprodev/tvmadpro-download/releases/download/v0.3.40/enigma2-plugin-extensions-tvmadproe2_0.3.40_all.ipk",
+  "download_url": "https://github.com/tvmadprodev/tvmadpro-download/releases/download/v1.6/enigma2-plugin-extensions-tvmadproe2_0.3.41_all.ipk",
   "changelog": [
     "Added GitHub update support",
     "Added UPDATE button on start screen",
