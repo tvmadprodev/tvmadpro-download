@@ -1,8 +1,8 @@
 {
   "product": "TvMad Pro E2",
-  "version": "0.3.46",
+  "version": "0.3.47",
   "release_date": "2026-05-04",
-  "download_url": "https://github.com/tvmadprodev/tvmadpro-download/releases/download/v1.6/enigma2-plugin-extensions-tvmadproe2_0.3.46_all.ipk",
+  "download_url": "https://github.com/tvmadprodev/tvmadpro-download/releases/download/v1.6/enigma2-plugin-extensions-tvmadproe2_0.3.47_all.ipk",
   "changelog": [
     "Added GitHub update support",
     "Added SEARCH button for VOD"
