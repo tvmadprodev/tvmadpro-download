@@ -1,0 +1,12 @@
+{
+  "product": "TvMad Pro E2",
+  "version": "0.3.68",
+  "release_date": "2026-09-04",
+  "download_url": "https://github.com/tvmadprodev/tvmadpro-download/releases/download/v1.6/enigma2-plugin-extensions-tvmadproe2_0.3.68_all.ipk",
+  "changelog": [
+    "Install script adjusted",
+    "Picon aliases adjusted"
+    
+  ],
+  "mandatory": false
+}
