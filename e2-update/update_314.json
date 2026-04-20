@@ -1,7 +1,7 @@
 {
   "product": "TvMad Pro E2",
   "version": "0.3.89",
-  "release_date": "2026-12-04",
+  "release_date": "2026-17-04",
   "download_url": "https://github.com/tvmadprodev/tvmadpro-download/releases/download/v1.6/enigma2-plugin-extensions-tvmadproe2_0.3.89_py314_all.ipk",
   "changelog": [
     "EN: More backgrounds to choose in plugin added",
