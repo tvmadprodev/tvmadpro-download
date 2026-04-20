@@ -1,12 +1,13 @@
 {
   "product": "TvMad Pro E2",
-  "version": "0.3.83",
+  "version": "0.3.89",
   "release_date": "2026-12-04",
-  "download_url": "https://github.com/tvmadprodev/tvmadpro-download/releases/download/v1.6/enigma2-plugin-extensions-tvmadproe2_0.3.83_py314_all.ipk",
+  "download_url": "https://github.com/tvmadprodev/tvmadpro-download/releases/download/v1.6/enigma2-plugin-extensions-tvmadproe2_0.3.89_py314_all.ipk",
   "changelog": [
-    "Polish language added",
-    "EPG from M3U servers fixed",
-    "Local picons loading improved"
+    "EN: More backgrounds to choose in plugin added",
+    "PL: Dodano wybór kilku nowych grafik pluginu",
+    "EN: Amendments in auto update EPG to exported Live TV groups",
+    "PL: Poprawki automatycznego pobierania EPG dla eksportowanych grup Live TV"
   ],
   "mandatory": false
 }
