@@ -1,15 +1,11 @@
 {
-  "product": "TvMad Pro E2",
-  "version": "0.3.89",
-  "release_date": "2026-17-04",
-  "download_url": "https://github.com/tvmadprodev/tvmadpro-download/releases/download/v1.6/enigma2-plugin-extensions-tvmadproe2_0.3.89_all.ipk",
+  "product": "TvMad Xtream",
+  "version": "0.2.51",
+  "release_date": "2026-01-06",
+  "download_url": "https://github.com/tvmadprodev/tvmadpro-download/releases/download/v1.6/enigma2-plugin-extensions-tvmad-xtream_0.2.51_all.ipk",
   "changelog": [
-    "EN: More backgrounds to choose in plugin added",
-    "PL: Dodano wybór kilku nowych grafik pluginu",
-    "EN: Plugin now available from main menu",
-    "PL: Dodano plugin do głównego menu",
-    "EN: Amendments in auto update EPG to exported Live TV groups",
-    "PL: Poprawki automatycznego pobierania EPG dla eksportowanych grup Live TV"
+    "Dodano plugin do Menu",
+    "
   ],
   "mandatory": false
 }
