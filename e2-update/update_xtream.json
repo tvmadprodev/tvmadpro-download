@@ -1,10 +1,10 @@
 {
   "product": "TvMad Xtream",
-  "version": "0.2.51",
-  "release_date": "2026-01-06",
-  "download_url": "https://github.com/tvmadprodev/tvmadpro-download/releases/download/v1.6/enigma2-plugin-extensions-tvmad-xtream_0.2.51_all.ipk",
+  "version": "0.2.58",
+  "release_date": "06-07-2026",
+  "download_url": "https://github.com/tvmadprodev/tvmadpro-download/releases/download/v1.6/enigma2-plugin-extensions-tvmad-xtream_0.2.58_all.ipk",
   "changelog": [
-    "Dodano plugin do Menu"
+    "Drobne poprawki"
   ],
   "mandatory": false
 }
